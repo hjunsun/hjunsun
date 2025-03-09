@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&font=Roboto&desc=Human-System%20Interaction%20and%20Decision%20Making%20|%20Safety%20Management&descAlign=50&descAlignY=70" />
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=30&pause=1000&color=C41230&center=true&vCenter=true&random=true&width=800&height=70&lines=Hi+there!+👋+I'm+Joonsun+Hwang;I love cat)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=Joonsun%20Hwang&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&font=Roboto&desc=Human-System%20Interaction%20and%20Decision%20Making%20&descAlign=50&descAlignY=70" />
 
 
 ---
@@ -28,9 +25,9 @@ I'm a Ph.D. Student at CMU, passionate about cat!
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=separk-1&theme=ayu-mirage"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=separk-1&layout=compact&theme=ayu-mirage"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=separk-1&theme=tokyo-night" width="790"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hjunsun&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjunsun&layout=compact&theme=ayu-mirage"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hjunsun&theme=tokyo-night" width="790"/>
 
 </div>
 
