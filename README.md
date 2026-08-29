@@ -5,7 +5,7 @@
 
 ## 👋 Hello World!
 
-I'm a Ph.D. Student at CMU, passionate about cat!
+I'm a Ph.D. Student at CMU.
 
 ---
 
